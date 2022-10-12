@@ -17,7 +17,7 @@ I'm convinced that my algorithm to solve the problem is not the best possible so
 
 Some random notes for further discussion.
 
-- Hamburg is not a plan land (plattes land). We have trees, buildings, lots of bridges and water. Not every place fits to place a billboard, eventho it might be funny to have submarine boards :)
+- Hamburg is not a plain land (plattes land). We have trees, buildings, lots of bridges and water. Not every place fits to place a billboard, even though it might be funny to have submarine boards :)
 - Some billboards might need electricity, others not
 - Billboards might be already 'in use'
 - I could imagine not every advertisment fits every location in Hamburg. Its probably good to have different zones in Hamburg for different kinds of ads
